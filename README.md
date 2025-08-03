@@ -67,13 +67,15 @@ python problems/ReverseWord.py
 
 ---
 
-## 🙌 Author
+## 🙋‍♂️ Author
 
 **Shefaul Islam Shefa**  
 _Backend Developer | Competitive Programmer | Creative Technologist_
 
 ✉️ Email: [sishefa19@gmail.com](mailto:sishefa19@gmail.com)
+
 🔗 [LinkedIn](https://www.linkedin.com/in/sishefa19/)
+
 💻 [GitHub Profile](https://github.com/shefa19)
 
 ---
