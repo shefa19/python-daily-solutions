@@ -72,8 +72,8 @@ python problems/ReverseWord.py
 **Shefaul Islam Shefa**  
 _Backend Developer | Competitive Programmer | Creative Technologist_
 
-📧 Email: sishefa19@gmail.com  
-🔗 [GitHub](https://github.com/shefa19)) 
-• [LinkedIn](https://www.linkedin.com/in/sishefa19/)
+✉️ Email: [sishefa19@gmail.com](mailto:sishefa19@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/sishefa19/)
+💻 [GitHub Profile](https://github.com/shefa19)
 
 ---
