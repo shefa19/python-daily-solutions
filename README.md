@@ -57,7 +57,8 @@ python problems/ReverseWord.py
 | 2025-08-04 | Touple                   | ✅ Done    |
 | 2025-08-05 | Set                   | ✅ Done    |
 | 2025-08-06 | To-Do List Manager                  | ✅ Done    |
-| 2025-08-07 | ⏳ Coming Soon(Dictionary)        | 🔄 Pending |
+| 2025-08-07 | Dictionary                 | ✅ Done    |
+| 2025-08-08 | ⏳ Coming Soon        | 🔄 Pending |
 
 ---
 
