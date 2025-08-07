@@ -54,11 +54,12 @@ python problems/ReverseWord.py
 | Date       | Topic                  | Status     |
 |------------|------------------------|------------|
 | 2025-08-03 | List                   | ✅ Done    |
-| 2025-08-04 | Touple                   | ✅ Done    |
-| 2025-08-05 | Set                   | ✅ Done    |
-| 2025-08-06 | To-Do List Manager                  | ✅ Done    |
-| 2025-08-07 | Dictionary                 | ✅ Done    |
-| 2025-08-08 | ⏳ Coming Soon        | 🔄 Pending |
+| 2025-08-04 | Touple                 | ✅ Done    |
+| 2025-08-05 | Set                    | ✅ Done    |
+| 2025-08-06 | To-Do List Manager     | ✅ Done    |
+| 2025-08-07 | Dictionary             | ✅ Done    |
+| 2025-08-08 | If-Else Statement      | ✅ Done    |
+| 2025-08-09 | ⏳ Coming Soon         | 🔄 Pending |
 
 ---
 
