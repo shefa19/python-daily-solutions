@@ -61,7 +61,8 @@ python problems/ReverseWord.py
 | 2025-08-08 | If-Else Statement      | ✅ Done    |
 | 2025-08-09 | Match                  | ✅ Done    |
 | 2025-08-10 | While-Loops            | ✅ Done    |
-| 2025-08-11 | ⏳ Coming Soon         | 🔄 Pending |
+| 2025-08-11 | For-Loops              | ✅ Done    |
+| 2025-08-12 | ⏳ Coming Soon         | 🔄 Pending |
 
 ---
 
