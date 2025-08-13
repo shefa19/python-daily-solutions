@@ -1,0 +1,6 @@
+# Problem Name: Temperature Converter
+# Description:
+#   Create a module temp_converter.py with:
+#       1. c_to_f(c) -> converts Celsius to Fahrenheit
+#       2. f_to_c(f) -> converts Fahrenheit to Celsius
+#   In main.py, take user input and print the results.

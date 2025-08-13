@@ -1,0 +1,6 @@
+# Problem Name: Math Utility
+# Description:
+#   Create a module math_utils.py with two functions:
+#       1. add_numbers(a, b) -> returns the sum of two numbers
+#       2. factorial(n) -> returns the factorial of n
+#   Then, in main.py, import the module and use the functions.

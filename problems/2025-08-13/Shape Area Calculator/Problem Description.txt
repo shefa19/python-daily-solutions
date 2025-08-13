@@ -1,0 +1,7 @@
+# Problem Name: Shape Area Calculator
+# Description:
+#   Create a module area.py containing functions to calculate:
+#       1. triangle_area(base, height) -> returns the area of a triangle
+#       2. square_area(side) -> returns the area of a square
+#   In main.py, import these functions and take user inputs to calculate and display the areas.
+#   Handle invalid inputs using exception handling.
