@@ -53,6 +53,7 @@ python problems/ReverseWord.py
 
 | Date       | Topic                  | Status     |
 |------------|------------------------|------------|
+| 2025-08-02 | Strings                | ✅ Done    |
 | 2025-08-03 | List                   | ✅ Done    |
 | 2025-08-04 | Touple                 | ✅ Done    |
 | 2025-08-05 | Set                    | ✅ Done    |
