@@ -64,7 +64,8 @@ python problems/ReverseWord.py
 | 2025-08-10 | While-Loops            | ✅ Done    |
 | 2025-08-11 | For-Loops              | ✅ Done    |
 | 2025-08-12 | Functions               | ✅ Done    |
-| 2025-08-13 | ⏳ Coming Soon         | 🔄 Pending |
+| 2025-08-13 | Modules               | ✅ Done    |
+| 2025-08-14 | ⏳ Coming Soon         | 🔄 Pending |
 
 ---
 
