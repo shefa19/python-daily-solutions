@@ -66,7 +66,8 @@ python problems/ReverseWord.py
 | 2025-08-12 | Functions               | ✅ Done    |
 | 2025-08-13 | Modules               | ✅ Done    |
 | 2025-08-14 | Class & Objects            | ✅ Done    |
-| 2025-08-15 | ⏳ Coming Soon         | 🔄 Pending |
+| 2025-08-15 | Inheritance            | ✅ Done    |
+| 2025-08-16 | ⏳ Coming Soon         | 🔄 Pending |
 
 ---
 
