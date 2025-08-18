@@ -1,1 +1,1 @@
-Nusrat 42000 Mathematics
+Sadia E102 HR 50000 10
