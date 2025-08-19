@@ -69,7 +69,8 @@ python problems/ReverseWord.py
 | 2025-08-15 | Inheritance            | ✅ Done    |
 | 2025-08-16 | Multilevel Inheritance  | ✅ Done    |
 | 2025-08-17 | Iterators            | ✅ Done    |
-| 2025-08-18 | ⏳ Coming Soon         | 🔄 Pending |
+| 2025-08-19 | Polymorphism            | ✅ Done    |
+| 2025-08-20 | ⏳ Coming Soon         | 🔄 Pending |
 
 ---
 
