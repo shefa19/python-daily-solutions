@@ -71,7 +71,8 @@ python problems/ReverseWord.py
 | 2025-08-17 | Iterators            | ✅ Done    |
 | 2025-08-19 | Polymorphism            | ✅ Done    |
 | 2025-08-20 | File Handling            | ✅ Done    |
-| 2025-08-21 | ⏳ Coming Soon         | 🔄 Pending |
+| 2025-08-21 | Dates             | ✅ Done    |
+| 2025-08-22 | ⏳ Coming Soon         | 🔄 Pending |
 
 ---
 
