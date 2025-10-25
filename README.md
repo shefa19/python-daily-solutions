@@ -73,10 +73,16 @@ python problems/ReverseWord.py
 | 2025-08-19 | Polymorphism            | ✅ Done    |
 | 2025-08-20 | File Handling            | ✅ Done    |
 | 2025-08-21 | Dates             | ✅ Done    |
-| 2025-08-22 | ⏳ Coming Soon         | 🔄 Pending |
 
 ---
+## 📅 Apna College Practice Problem Solutions
 
+| Date       | Lecture                  | Quantity     |
+|------------|------------------------|------------|
+| 2025-10-25 | Lecture - 1    | 4    |
+| 2025-10-26 | ⏳ Coming Soon         | 🔄 Pending |
+
+---
 ## 🎯 Goals
 
 - Build consistency through daily coding  
