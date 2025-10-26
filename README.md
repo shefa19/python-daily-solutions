@@ -79,9 +79,10 @@ python problems/ReverseWord.py
 
 | Date       | Lecture                  | Quantity     |
 |------------|------------------------|------------|
-| 2025-10-25 | Lecture - 1    | 4    |
-| 2025-10-26 | Lecture - 2    | 7    |
-| 2025-10-27 | ⏳ Coming Soon         | 🔄 Pending |
+| 2025-10-25 | Lecture - 1            |      4     |
+| 2025-10-26 | Lecture - 2            |      7     |
+| 2025-10-27 | Lecture - 3            |      4     |
+| 2025-10-28 | ⏳ Coming Soon         | 🔄 Pending |
 
 ---
 ## 🎯 Goals
