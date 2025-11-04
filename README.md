@@ -61,6 +61,7 @@ python problems/ReverseWord.py
 ```
 
 ---
+## 📅 Daily Progress Log
 
 | 🗓️ Date       | 📘 Topic                   | 🟩 Status |
 | -------------- | -------------------------- | --------- |
@@ -86,6 +87,7 @@ python problems/ReverseWord.py
 | **2025-08-21** | 📅 Dates                   | ✅ Done    |
 
 ---
+## 📚 Apna College Practice Problems
 
 | 📆 Date        | 🎓 Lecture    | 🧮 Solved Problems |
 | -------------- | ------------- | ------------------ |
