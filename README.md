@@ -2,9 +2,9 @@
   <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" alt="Python Logo" width="260">
 </p>
 
-<h1 align="center">🐍 Python Daily Solutions</h1>
+<h1 align="center">Python Daily Solutions</h1>
 
-<p align="center"><i>Daily Python challenges to sharpen your coding skills</i></p>
+<p align="center"><i>Daily Python challenges to sharpen coding skills</i></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10-blue?logo=python">
@@ -42,7 +42,7 @@ YYYY-MM-DD
 ```
 
 💡 Each folder name represents the **date of the solved problem**,  
-so you can easily track your daily coding progress.
+so you can easily track my daily coding progress.
 
 ---
 
