@@ -110,12 +110,17 @@ python problems/ReverseWord.py
 
 ---
 
-🙋‍♂️ Author
-Shefaul Islam Shefa
-Aspiring Software Engineer | Competitive Programmer | Creative Technologist
+## 🙋‍♂️ Author
 
-📧 Email: sishefa19@gmail.com
-🔗 LinkedIn: linkedin.com/in/sishefa19
-💻 GitHub: github.com/shefa19
+**Shefaul Islam Shefa**  
+_Aspiring Software Engineer | Competitive Programmer | Creative Technologist_
 
-<p align="center"> <i>“Code a little. Learn a lot. Repeat daily.”</i> </p> ```
+📧 **Email:** [sishefa19@gmail.com](mailto:sishefa19@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/sishefa19](https://www.linkedin.com/in/sishefa19/)  
+💻 **GitHub:** [github.com/shefa19](https://github.com/shefa19)
+
+---
+
+<p align="center">
+  <i>“Code a little. Learn a lot. Repeat daily.”</i>
+</p>
