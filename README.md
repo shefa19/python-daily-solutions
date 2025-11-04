@@ -19,26 +19,46 @@
 Welcome to **Python Daily Solutions** — a personal coding journey dedicated to solving one Python problem every day.  
 The goal is to **build consistency, strengthen logic**, and **write cleaner, professional-grade Python code**.
 
---- 
+---
 
 ## 📁 Folder Structure
+
+📂 **Project Root Directory**
+```
 problems/
+```
+
+📁 **Inside the `problems/` folder:**
+```
 ├── 2025-08-03
 ├── 2025-08-04
 ├── 2025-08-05
 ├── ...
-Each folder follows the format YYYY-MM-DD to represent the solving date. 
+```
+
+🗓️ **Naming Format:**
+```
+YYYY-MM-DD
+```
+
+💡 Each folder name represents the **date of the solved problem**,  
+so you can easily track your daily coding progress.
 
 ---
 
-Each folder follows the naming pattern `YYYY-MM-DD`, representing the exact solving date.
+## 🚀 How to Run
 
---- ## 🚀 How to Run To run any solution file:
-bash
+To execute any solution file:
+
+```bash
 python problems/ReverseWord.py
+```
+
 Example:
-bash
+
+```bash
 python problems/ReverseWord.py
+```
 
 ---
 
