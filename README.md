@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Python Daily Solutions" width="600">
+  <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" alt="Python Logo" width="260">
 </p>
+
+<h1 align="center">🐍 Python Daily Solutions</h1>
 
 <p align="center"><i>Daily Python challenges to sharpen your coding skills</i></p>
 
@@ -17,16 +19,17 @@
 Welcome to **Python Daily Solutions** — a personal coding journey dedicated to solving one Python problem every day.  
 The goal is to **build consistency, strengthen logic**, and **write cleaner, professional-grade Python code**.
 
----
+--- 
 
 ## 📁 Folder Structure
-
 problems/
 ├── 2025-08-03
 ├── 2025-08-04
 ├── 2025-08-05
 ├── ...
+Each folder follows the format YYYY-MM-DD to represent the solving date. 
 
+---
 
 Each folder follows the naming pattern `YYYY-MM-DD`, representing the exact solving date.
 
