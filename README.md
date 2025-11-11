@@ -95,7 +95,8 @@ python problems/ReverseWord.py
 | **2025-10-26** | Lecture 2     | 🔹 7               |
 | **2025-10-27** | Lecture 3     | 🔹 4               |
 | **2025-10-28** | Lecture 4     | 🔹 4               |
-| **2025-10-29** | ⏳ Coming Soon | 🔄 Pending        |
+| **2025-10-29** | Lecture 5     | 🔹 12               |
+| **2025-10-30** | ⏳ Coming Soon | 🔄 Pending        |
 
 ---
 
